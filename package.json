@@ -1,5 +1,5 @@
 {
-  "name": "aircrypto",
+  "name": "AirCryptoLib",
   "version": "1.0.0",
   "description": "Payments in crypto for top-up",
   "main": "index.js",
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nishamalik8982/AirCrypto.git"
+    "url": "git+https://github.com/devteamlakeba/AirCryptoLib.git"
   },
   "keywords": [
     "Top-up",
     "Crypto",
     "AUD"
   ],
-  "author": "Nisha Malik",
+  "author": "Lakeba-solutions",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nishamalik8982/AirCrypto/issues"
+    "url": "https://github.com/devteamlakeba/AirCryptoLib/issues"
   },
-  "homepage": "https://github.com/nishamalik8982/AirCrypto#readme",
+  "homepage": "https://github.com/devteamlakeba/AirCryptoLib#readme",
   "devDependencies": {
     "window": "^4.2.5"
   },
